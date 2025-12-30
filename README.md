@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E12AQF08OmrbQiOdQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1718382865845?e=2147483647&v=beta&t=Zr-CxEKo5SrixTeAH9vSFAhaCp-guqYlQEqZniTh2lU" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Salut 👋, moi c’est <span style="color:#0ea5e9">NEYLORXT</span></h1>
+<h1 align="center">Salut 👋, moi c’est <span style="color:#0ea5e9">Neylorxt</span></h1>
 
 <p align="center">
   🔹 <strong>Game Developer</strong> | 🔸 <strong>Full Stack Web Developer</strong><br>
@@ -12,14 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/NEYLORXT">
-    <img src="https://img.shields.io/github/followers/NEYLORXT?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/neylorxt?label=Followers&style=social" />
   </a>
   <a href="https://github.com/NEYLORXT?tab=repositories">
-    <img src="https://img.shields.io/github/stars/NEYLORXT?label=Stars&style=social" />
+    <img src="https://img.shields.io/github/stars/neylorxt?label=Stars&style=social" />
   </a>
 </p>
 
----
 
 ## 🧠 À propos de moi
 
@@ -29,13 +28,11 @@
 
 > 🎯 **Mon objectif** : Créer des outils utiles, performants et faciles à intégrer.
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=🎮+Game+Developer;🌐+Full+Stack+Web+Dev;🚀+Unreal+Plugin+Creator;🧠+Toujours+en+apprentissage" alt="Typing SVG" />
 </p>
 
----
 
 ## 🛠️ Stack & Compétences
 
@@ -50,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" />
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -58,51 +54,20 @@
 
 | Domaine           | Outils / Langages                                                                 |
 |-------------------|-----------------------------------------------------------------------------------|
-| 🎮 Game Dev        | Unreal Engine 5, Blueprint, C++                                                   |
-| 🌐 Web Frontend    | HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI                              |
-| ⚙️ Web Backend     | Java, Spring Boot, Spring Security, REST APIs                                    |
-| 🧩 Auth / Sécurité  | JWT *(en cours...)*, CSRF, Spring Session, SecurityContextHolder                 |
-| 💾 Base de données | PostgreSQL *(en cours...)*, MySQL                                                |
-| ☁️ Outils          | Git, GitHub, Postman, IntelliJ, VS Code                                          |
+| 🎮 Game Dev        | Unreal Engine 5, Blueprint, C++, Unity *( base )*, C#                                                   |
+| 🌐 Web Frontend    | HTML, CSS, Tailwind CSS, DaisyUI, JavaScript, React, Next Js, Nuxt Js                              |
+| ⚙️ Web Backend     | Node js, Express, Java, Spring Boot, REST APIs                                    |
+| 🧩 Auth / Sécurité  | JWT, CSRF, Spring Session, SecurityContextHolder                 |
+| 💾 Base de données | PostgreSQL, MySQL, Prisma                                                |
+| ☁️ Outils          | Git, GitHub, Postman, IntelliJ, Rider, VS Code, Visual Studio                                          |
 
 </div>
 
 
----
-
 ## 📦 Mes projets
 
-### 🎯 Inventory System Suite - UE5 Plugin  
-> Un système d'inventaire **modulaire** pour jeux de **survie multijoueur**  
-> Versions : Core / Plus / Pro
+### 🌍 [Mecanes](https://linktr.ee/mecanes) 
 
-[Pro Inventory System](https://www.fab.com/listings/c7098063-00a1-4a6b-ba2f-527803b025e2)
-
----
-
-### 🧩 Inventory System Core 
-> Assset Pack avec **Bag & Item Component**, 100% compatible Blueprint  
-> Ajout/Modification/suppression d item
-
-[Inventory System Core](https://www.fab.com/listings/760c8ab0-2d4c-4697-acd5-f8a637acf28f)
-
----
-
-### 🌍 Mecanes 
-> Besoin d autres plugins ? visite ce lien
-
-[Mecanes](https://linktr.ee/mecanes)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEYLORXT&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEYLORXT&layout=compact&theme=radical" height="170px"/>
-</p>
-
----
 
 ## 📫 Me contacter
 
@@ -110,8 +75,6 @@
 - 📨 Email : bientôt dispo  
 - 🔗 [Portfolio](https://neylorxt-portfolio.vercel.app)
 - 🔗 [Mecanes](https://linktr.ee/mecanes)
-
----
 
 <p align="center">
   🔥 Merci de passer sur mon profil ! N'hésite pas à explorer mes projets 👇  
@@ -121,7 +84,6 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
 </p>
 
----
 
 ## 📱 Me retrouver ailleurs
 
@@ -163,8 +125,6 @@
   </a>
 </p>
 
-
----
 
 ## 🔧 Stack rapide
 
