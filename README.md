@@ -72,8 +72,9 @@
 ## 📫 Me contacter
 
 - 💬 Discord : **NEYLORXT**  
-- 📨 Email : bientôt dispo  
-- 🔗 [Portfolio](https://neylorxt-portfolio.vercel.app)
+- 📨 Email : bientôt dispo
+- 🔗 [Portfolio](https://eriencharmely.fr)
+- 🔗 [Neylorxt Portfolio](https://neylorxt-portfolio.vercel.app)
 - 🔗 [Mecanes](https://linktr.ee/mecanes)
 
 <p align="center">
