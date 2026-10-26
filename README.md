@@ -139,7 +139,6 @@ Applications full-stack avec frontend moderne, backend sécurisé, base de donn�
 - Continuer à progresser en **architecture logicielle**
 - Approfondir le **C++ moderne**, Qt et le développement système
 - Construire des projets solides pour mon portfolio
-- Trouver une **alternance** ou une opportunité en développement logiciel
 - Développer des outils utiles pour les développeurs et les créateurs
 
 ---
